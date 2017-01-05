@@ -2,3 +2,4 @@ node_modules
 *.DS_Store
 creds.data
 npm-debug.log
+twitter-keys.sh
