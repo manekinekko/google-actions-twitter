@@ -10,3 +10,14 @@
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="pt" dir="ltr">🏠 x 2&gt; 8@:?8 E@ CF=6 E96 H@C=5 <a href="https://twitter.com/hashtag/GoogleHome?src=hash">#GoogleHome</a> <a href="https://twitter.com/hashtag/Im_A_Bot?src=hash">#Im_A_Bot</a> cc <a href="https://twitter.com/Google">@google</a></p>&mdash; Wassim Chegham (@manekinekko) <a href="https://twitter.com/manekinekko/status/816880688347672576">January 5, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Notes
+
+In order to use this app, you would need to provide a `twitter-keys.sh` file which exports the following variables:
+
+```
+export TWITTER_CONSUMER_KEY='XXX';
+export TWITTER_CONSUMER_SECRET='XXX';
+export TWITTER_ACCESS_TOKEN_KEY='XXX';
+export TWITTER_ACCESS_TOKEN_SECRET='XXX';
+```
