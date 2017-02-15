@@ -17,7 +17,7 @@ var MyAction = function () {
         // create a google action server
         this.agent = new _googleActionsServer.ActionServer();
 
-        this.agent.setGreetings(['Hi, I am your Twitter assistant. What do you want to tweet?', 'Hello, tell me your message and I will published it on Twitter', 'Greetings! Your Twitter assistant here. What is your message?']);
+        this.agent.setGreetings(['Hi, I am your Twitter assistant. What do you want to tweet?', 'Hello, tell me your message and I will publish it on Twitter', 'Greetings! Your Twitter assistant here. What is your message?']);
 
         this.assistant = null;
     }
